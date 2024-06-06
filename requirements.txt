@@ -1,0 +1,5 @@
+torch
+torchvision
+torchaudio
+Cython
+git+https://github.com/NVIDIA/NeMo.git@1fa961ba03ab5f8c91b278640e29807079373372#egg=nemo_toolkit[asr]
